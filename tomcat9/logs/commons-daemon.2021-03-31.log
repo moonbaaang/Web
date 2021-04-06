@@ -1,0 +1,40 @@
+[2021-03-31 09:28:09] [info]  [15856] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2021-03-31 09:28:09] [info]  [15856] Service Tomcat9 name Apache Tomcat 9.0 Tomcat9
+[2021-03-31 09:28:09] [info]  [15856] Service 'Tomcat9' installed
+[2021-03-31 09:28:09] [info]  [15856] Commons Daemon procrun finished
+[2021-03-31 09:28:10] [info]  [13468] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2021-03-31 09:28:10] [info]  [13468] Updating service...
+[2021-03-31 09:28:10] [info]  [13468] Service 'Tomcat9' updated
+[2021-03-31 09:28:10] [info]  [13468] Update service finished.
+[2021-03-31 09:28:10] [info]  [13468] Commons Daemon procrun finished
+[2021-03-31 09:28:10] [info]  [ 6452] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2021-03-31 09:28:10] [info]  [ 6452] Updating service...
+[2021-03-31 09:28:10] [info]  [ 6452] Service 'Tomcat9' updated
+[2021-03-31 09:28:10] [info]  [ 6452] Update service finished.
+[2021-03-31 09:28:10] [info]  [ 6452] Commons Daemon procrun finished
+[2021-03-31 09:28:10] [info]  [16884] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2021-03-31 09:28:10] [info]  [16884] Updating service...
+[2021-03-31 09:28:10] [info]  [16884] Service 'Tomcat9' updated
+[2021-03-31 09:28:10] [info]  [16884] Update service finished.
+[2021-03-31 09:28:10] [info]  [16884] Commons Daemon procrun finished
+[2021-03-31 09:28:11] [info]  [17064] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2021-03-31 09:28:11] [info]  [17064] Updating service...
+[2021-03-31 09:28:11] [info]  [17064] Service 'Tomcat9' updated
+[2021-03-31 09:28:11] [info]  [17064] Update service finished.
+[2021-03-31 09:28:11] [info]  [17064] Commons Daemon procrun finished
+[2021-03-31 09:28:16] [info]  [13132] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2021-03-31 09:28:16] [info]  [13132] Running 'Tomcat9' Service...
+[2021-03-31 09:28:16] [info]  [13624] Starting service...
+[2021-03-31 09:28:18] [info]  [13624] Service started in 2060 ms.
+[2021-03-31 09:31:30] [info]  [ 3584] Stopping service...
+[2021-03-31 09:31:31] [info]  [ 3584] Service stop thread completed.
+[2021-03-31 09:31:31] [info]  [13132] Run service finished.
+[2021-03-31 09:31:31] [info]  [13132] Commons Daemon procrun finished
+[2021-03-31 09:32:11] [info]  [18312] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2021-03-31 09:32:11] [info]  [18312] Running 'Tomcat9' Service...
+[2021-03-31 09:32:11] [info]  [11672] Starting service...
+[2021-03-31 09:32:12] [info]  [11672] Service started in 1229 ms.
+[2021-03-31 09:32:55] [info]  [14404] Stopping service...
+[2021-03-31 09:32:56] [info]  [14404] Service stop thread completed.
+[2021-03-31 09:32:56] [info]  [18312] Run service finished.
+[2021-03-31 09:32:56] [info]  [18312] Commons Daemon procrun finished
